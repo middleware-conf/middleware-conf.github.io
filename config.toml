@@ -1,0 +1,93 @@
+baseurl = "https://middleware-conf.github.io"
+title = "ACM/IFIP/USENIX MIDDLEWARE"
+languageCode = "en-us"
+DefaultContentLanguage = "en-us"
+paginate = "10" # Number of posts per page
+theme = "hugo-dpsg"
+
+[Author] # Used in authorbox
+  name = "Last Updated"
+  #bio = "The Scout Master is the leader of this local scout group"
+  #avatar = "img/avatar.png"
+
+[Params]
+  description = "ACM/IFIP/USENIX International Middleware Conference" # Site description. Used in meta description
+  copyright = "ACM/IFIP/USENIX MIDDLEWARE" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = false # Enable Table of Contents
+  pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
+  indexPager = false # Show pager navigation on index page
+  post_meta = ["date"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "Jan 2, 2006" # Change the format of dates
+
+
+
+[Params.style.vars]
+  highlightColor = "#003056" # Override main theme color
+
+[Params.logo]
+  #image = "img/placeholder.png" # Logo image. Path relative to "static"
+  #header = "img/header.jpg" # Header image. Path relative to "static"
+  title = "MIDDLEWARE" # Logo title, otherwise will use site title
+  subtitle = "ACM/IFIP/USENIX International Middleware Conference" # Logo subtitle
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = [ "recent", "categories", "taglist", "social", "languages"]
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 10 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.footer]
+  #text = "[Imprint and Privacy](/imprint)" # Extra text in footer row, understands markdown
+  #right = "Donate!" # Right-aligned text in footer row, understands markdown
+
+# Custom menu items, normally controlled via front matter in /content files
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "history"
+    name = "History"
+    url = "/history/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "proceedings"
+    name = "Proceedings"
+    url = "/proceedings/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "awards"
+    name = "Award Winners"
+    url = "/awards/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "steering"
+    name = "Steering Committee"
+    url = "/steering/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "hosting"
+    name = "Hosting Middleware"
+    url = "/hosting/"
+    weight = 6
+
