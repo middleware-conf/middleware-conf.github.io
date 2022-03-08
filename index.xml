@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Dec 2021 13:08:32 -0400</lastBuildDate><atom:link href="https://middleware-conf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>History</title>
+      <link>https://middleware-conf.github.io/history/</link>
+      <pubDate>Tue, 08 Mar 2022 11:40:45 -0400</pubDate>
+      
+      <guid>https://middleware-conf.github.io/history/</guid>
+      <description>Year Venue Date General Chairs Program Chairs Acc. Rate     2022 Quebec City, Canada Nov 7 - 11 Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista Saurabh Bagchi, Marta Patino-Martinez TBD   2021 Quebec City, Canada Dec 6 - 10 Kaiwen Zhang, Abdelouahed Gherbi Nalini Venkatasubramanian, Luís Veiga 28.1%   2020 Delft, Holland Dec 7 - 11 Jan S. Rellermeyer Dilma Da Silva, Rüdiger Kapitza 25.</description>
+    </item>
+    
+    <item>
       <title>MIDDLEWARE 2022</title>
       <link>https://middleware-conf.github.io/post/middleware2022/</link>
       <pubDate>Wed, 01 Dec 2021 13:08:32 -0400</pubDate>
@@ -20,15 +29,13 @@ We expect an in-person meeting in 2022.</description>
     </item>
     
     <item>
-      <title>MIDDLEWARE 2021</title>
-      <link>https://middleware-conf.github.io/post/middleware2021/</link>
-      <pubDate>Fri, 25 Jun 2021 13:08:32 -0400</pubDate>
+      <title>Want to Host MIDDLEWARE?</title>
+      <link>https://middleware-conf.github.io/post/bids/</link>
+      <pubDate>Mon, 01 Nov 2021 12:36:52 -0400</pubDate>
       
-      <guid>https://middleware-conf.github.io/post/middleware2021/</guid>
-      <description>MIDDLEWARE 2021 will be held in Quebec City, Canada.
-General Chairs: Kaiwen Zhang and Abdelouahed Gherbi, ETS Montreal, Canada.
-Program Chairs: Nalini Venkatasubramanian, UC Irvine, USA and Luis Veiga, IST, TU Lisbon, Portugal.
-The MIDDLEWARE Steering and Organizing Committees have been actively discussing how the situation surrounding COVID-19 has been evolving around the world. MIDDLEWARE 2021 will be virtual.</description>
+      <guid>https://middleware-conf.github.io/post/bids/</guid>
+      <description>The MIDDLEWARE Steering Committee welcomes proposals from academia and industry researchers who are interested in hosting and organizing future editions of MIDDLEWARE. We make every effort to rotate the venue between North America, Europe and the rest of the world.
+More details on submitting an expression of interest are available here</description>
     </item>
     
     <item>
@@ -49,16 +56,6 @@ Any individual who experiences or witnesses harassment (as described above) at M
       <guid>https://middleware-conf.github.io/post/covid/</guid>
       <description>The MIDDLEWARE Steering and Organizing Committees have been actively discussing how the situation surrounding COVID-19 has been evolving around the world.
 We deeply sympathize with those who have been affected in various ways by COVID-19. Our primary concern is that members of our community, and their families and friends, remain safe and healthy. We are aware of the challenges people in different regions of the world are facing, and consequently MIDDLEWARE 2020 was a virtual conference.</description>
-    </item>
-    
-    <item>
-      <title>Want to Host MIDDLEWARE 2023/24?</title>
-      <link>https://middleware-conf.github.io/post/bids/</link>
-      <pubDate>Fri, 25 Jun 2021 12:36:52 -0400</pubDate>
-      
-      <guid>https://middleware-conf.github.io/post/bids/</guid>
-      <description>For 2023 and 2024, the steering committee is primarily looking for bids locations outside North America.
-More details on submitting an expression of interest are available here</description>
     </item>
     
     <item>
@@ -89,15 +86,6 @@ More details on submitting an expression of interest are available here</descrip
 From 1998-2013, the proceedings of MIDDLEWARE were published by Springer &amp;ndash; Lecture Notes in Computer Science (LNCS) and are crosslinked from the ACM Digital Library here (check under alphabet &amp;lsquo;M&amp;rsquo;)
 For your convenience, the proceedings of the main research track of MIDDLEWARE are linked below.
 The ACM page of MIDDLEWARE links proceedings of the Industry Track and several workshops that have been affiliated with MIDDLEWARE.</description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>https://middleware-conf.github.io/history/</link>
-      <pubDate>Fri, 25 Jun 2021 11:40:45 -0400</pubDate>
-      
-      <guid>https://middleware-conf.github.io/history/</guid>
-      <description>Year Venue Date General Chairs Program Chairs Acc. Rate     2021 Quebec City, Canada Dec 6 - 10 Kaiwen Zhang, Abdelouahed Gherbi Nalini Venkatasubramanian, Luís Veiga TBD   2020 Delft, Holland Dec 7 - 11 Jan S. Rellermeyer Dilma Da Silva, Rüdiger Kapitza 25.21%   2019 Davis, USA Dec 9 - 13 Mo Sadoghi, Roman Vitenberg Robbert van Renesse, Vana Kalogeraki 24.03%   2018 Rennes, France Nov 30 - Dec 4 Guillaume Pierre Paulo Ferreira, Liuba Shrira 23.</description>
     </item>
     
     <item>
