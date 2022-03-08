@@ -2,49 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ACM/IFIP/USENIX MIDDLEWARE</title>
-    <link>https://middleware-conf.github.io/test/post/</link>
+    <link>https://middleware-conf.github.io/post/</link>
     <description>Recent content in Posts on ACM/IFIP/USENIX MIDDLEWARE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jun 2021 13:08:32 -0400</lastBuildDate><atom:link href="https://middleware-conf.github.io/test/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 13:08:32 -0400</lastBuildDate><atom:link href="https://middleware-conf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIDDLEWARE 2022</title>
+      <link>https://middleware-conf.github.io/post/middleware2022/</link>
+      <pubDate>Wed, 01 Dec 2021 13:08:32 -0400</pubDate>
+      
+      <guid>https://middleware-conf.github.io/post/middleware2022/</guid>
+      <description>MIDDLEWARE 2022 will be held in Quebec City, Canada.
+General Chairs: Kaiwen Zhang and Abdelouahed Gherbi, ETS Montreal, Canada and Paolo Bellavista, University of Bologna, Italy.
+Program Chairs: Saurabh Bagchi, Purdue University, USA and Marta Patino-Martinez, Polytechnic University of Madrid, Spain.
+We expect an in-person meeting in 2022.</description>
+    </item>
+    
     <item>
       <title>MIDDLEWARE 2021</title>
-      <link>https://middleware-conf.github.io/test/post/middleware2021/</link>
+      <link>https://middleware-conf.github.io/post/middleware2021/</link>
       <pubDate>Fri, 25 Jun 2021 13:08:32 -0400</pubDate>
       
-      <guid>https://middleware-conf.github.io/test/post/middleware2021/</guid>
+      <guid>https://middleware-conf.github.io/post/middleware2021/</guid>
       <description>MIDDLEWARE 2021 will be held in Quebec City, Canada.
 General Chairs: Kaiwen Zhang and Abdelouahed Gherbi, ETS Montreal, Canada.
 Program Chairs: Nalini Venkatasubramanian, UC Irvine, USA and Luis Veiga, IST, TU Lisbon, Portugal.
-The MIDDLEWARE Steering and Organizing Committees have been actively discussing how the situation surrounding COVID-19 has been evolving around the world. We hope to make a decision about the format of MIDDLEWARE 2021 very soon.</description>
+The MIDDLEWARE Steering and Organizing Committees have been actively discussing how the situation surrounding COVID-19 has been evolving around the world. MIDDLEWARE 2021 will be virtual.</description>
     </item>
     
     <item>
       <title>Policy Against Discrimination and Harassment</title>
-      <link>https://middleware-conf.github.io/test/post/harassment/</link>
+      <link>https://middleware-conf.github.io/post/harassment/</link>
       <pubDate>Fri, 25 Jun 2021 12:43:48 -0400</pubDate>
       
-      <guid>https://middleware-conf.github.io/test/post/harassment/</guid>
+      <guid>https://middleware-conf.github.io/post/harassment/</guid>
       <description>MIDDLEWARE is an ACM event and every edition of MIDDLEWARE strictly abides by the ACM Policy Against Discrimination and Harassment
 Any individual who experiences or witnesses harassment (as described above) at MIDDLEWARE or any ACM activity should follow the ACM Procedures for Reporting Unacceptable Behavior.</description>
     </item>
     
     <item>
       <title>COVID-19 Policy</title>
-      <link>https://middleware-conf.github.io/test/post/covid/</link>
+      <link>https://middleware-conf.github.io/post/covid/</link>
       <pubDate>Fri, 25 Jun 2021 12:41:24 -0400</pubDate>
       
-      <guid>https://middleware-conf.github.io/test/post/covid/</guid>
+      <guid>https://middleware-conf.github.io/post/covid/</guid>
       <description>The MIDDLEWARE Steering and Organizing Committees have been actively discussing how the situation surrounding COVID-19 has been evolving around the world.
 We deeply sympathize with those who have been affected in various ways by COVID-19. Our primary concern is that members of our community, and their families and friends, remain safe and healthy. We are aware of the challenges people in different regions of the world are facing, and consequently MIDDLEWARE 2020 was a virtual conference.</description>
     </item>
     
     <item>
       <title>Want to Host MIDDLEWARE 2023/24?</title>
-      <link>https://middleware-conf.github.io/test/post/bids/</link>
+      <link>https://middleware-conf.github.io/post/bids/</link>
       <pubDate>Fri, 25 Jun 2021 12:36:52 -0400</pubDate>
       
-      <guid>https://middleware-conf.github.io/test/post/bids/</guid>
+      <guid>https://middleware-conf.github.io/post/bids/</guid>
       <description>For 2023 and 2024, the steering committee is primarily looking for bids locations outside North America.
 More details on submitting an expression of interest are available here</description>
     </item>
