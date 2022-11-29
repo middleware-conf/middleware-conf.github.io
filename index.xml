@@ -6,28 +6,16 @@
     <description>Recent content in Home on ACM/IFIP/USENIX MIDDLEWARE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 13:08:32 -0400</lastBuildDate><atom:link href="https://middleware-conf.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Current Conference: MIDDLEWARE 2022</title>
-      <link>https://middleware-conf.github.io/post/middleware2022/</link>
-      <pubDate>Thu, 10 Mar 2022 13:08:32 -0400</pubDate>
-      
-      <guid>https://middleware-conf.github.io/post/middleware2022/</guid>
-      <description>MIDDLEWARE 2022 will be held in Quebec City, Canada.
-General Chairs: Kaiwen Zhang and Abdelouahed Gherbi, ETS Montreal, Canada and Paolo Bellavista, University of Bologna, Italy.
-Program Chairs: Saurabh Bagchi, Purdue University, USA and Marta Patino-Martinez, Polytechnic University of Madrid, Spain.
-We are currently planning for a physical conference in Quebec City, scheduled for November 2022. Due to the current pandemic, our plans may change and require a virtual conference. We will provide updates as they become available through our various channels (Website, Twitter, Facebook, LinkedIn).</description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Nov 2022 13:08:32 -0400</lastBuildDate><atom:link href="https://middleware-conf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIDDLEWARE 2023</title>
       <link>https://middleware-conf.github.io/post/middleware2023/</link>
-      <pubDate>Wed, 09 Mar 2022 13:08:32 -0400</pubDate>
+      <pubDate>Tue, 29 Nov 2022 13:08:32 -0400</pubDate>
       
       <guid>https://middleware-conf.github.io/post/middleware2023/</guid>
       <description>MIDDLEWARE 2023 will be held in Bologna, Italy.
 General Chair: Paolo Bellavista, University of Bologna, Italy.
-Program Chairs: TBD</description>
+Program Chairs: Pramod Bhatotia, TU Munich, Germany and Christine Julien, UT Austin, USA</description>
     </item>
     
     <item>
@@ -47,7 +35,7 @@ Program Chairs: TBD</description>
       <pubDate>Tue, 08 Mar 2022 11:40:45 -0400</pubDate>
       
       <guid>https://middleware-conf.github.io/history/</guid>
-      <description>Year Venue Date General Chairs Program Chairs Acc. Rate     2022 Quebec City, Canada Nov 7 - 11 Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista Saurabh Bagchi, Marta Patino-Martinez TBD   2021 Quebec City, Canada Dec 6 - 10 Kaiwen Zhang, Abdelouahed Gherbi Nalini Venkatasubramanian, Luís Veiga 28.1%   2020 Delft, Holland Dec 7 - 11 Jan S. Rellermeyer Dilma Da Silva, Rüdiger Kapitza 25.</description>
+      <description>Year Venue Date General Chairs Program Chairs Acc. Rate 2022 Quebec City, Canada Nov 7 - 11 Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista Saurabh Bagchi, Marta Patino-Martinez TBD 2021 Quebec City, Canada Dec 6 - 10 Kaiwen Zhang, Abdelouahed Gherbi Nalini Venkatasubramanian, Luís Veiga 28.1% 2020 Delft, Holland Dec 7 - 11 Jan S. Rellermeyer Dilma Da Silva, Rüdiger Kapitza 25.21% 2019 Davis, USA Dec 9 - 13 Mo Sadoghi, Roman Vitenberg Robbert van Renesse, Vana Kalogeraki 24.</description>
     </item>
     
     <item>
@@ -56,7 +44,7 @@ Program Chairs: TBD</description>
       <pubDate>Wed, 01 Dec 2021 11:41:17 -0400</pubDate>
       
       <guid>https://middleware-conf.github.io/steering/</guid>
-      <description> Hans-Arno Jacobsen (University of Toronto, Canada) - Chair Gordon Blair (Lancaster University, UK) David Eyers (U. Otago, New Zealand) &amp;ndash; ACM representative Luis Veiga (Technical University of Lisbon, Portugal) - IFIP representative K. R. Jayaram (IBM T. J. Watson Research Center, USA) - Information Officer Anshul Gandhi (Stony Brook University, USA) Peter Pietzuch (Imperial College London, UK) Liuba Shrira (Brandeis University, USA) Paulo Ferreira (University of Oslo, Norway) Guillaume Pierre (University of Rennes, France) Mohammad Sadoghi (University of California, Davis, USA) Roman Vitenberg(University Oslo, Norway) Robbert van Renesse (Cornell University, USA) Vana Kalogeraki (Athens University of Economics and Business, Greece) Jan Rellermeyer (Technical University of Delft, Netherlands) Dilma Da Silva (Texas A&amp;amp;M University, USA) Rüdiger Kapitza (Technische Universität Braunschweig), Germany  </description>
+      <description> Hans-Arno Jacobsen (University of Toronto, Canada) - Chair Gordon Blair (Lancaster University, UK) David Eyers (U. Otago, New Zealand) &amp;ndash; ACM representative Luis Veiga (Technical University of Lisbon, Portugal) - IFIP representative K. R. Jayaram (IBM T. J. Watson Research Center, USA) - Information Officer Anshul Gandhi (Stony Brook University, USA) Peter Pietzuch (Imperial College London, UK) Liuba Shrira (Brandeis University, USA) Paulo Ferreira (University of Oslo, Norway) Guillaume Pierre (University of Rennes, France) Mohammad Sadoghi (University of California, Davis, USA) Roman Vitenberg(University Oslo, Norway) Robbert van Renesse (Cornell University, USA) Vana Kalogeraki (Athens University of Economics and Business, Greece) Jan Rellermeyer (Technical University of Delft, Netherlands) Dilma Da Silva (Texas A&amp;amp;M University, USA) Rüdiger Kapitza (Technische Universität Braunschweig), Germany </description>
     </item>
     
     <item>

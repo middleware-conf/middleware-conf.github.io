@@ -6,28 +6,16 @@
     <description>Recent content in Posts on ACM/IFIP/USENIX MIDDLEWARE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 13:08:32 -0400</lastBuildDate><atom:link href="https://middleware-conf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Current Conference: MIDDLEWARE 2022</title>
-      <link>https://middleware-conf.github.io/post/middleware2022/</link>
-      <pubDate>Thu, 10 Mar 2022 13:08:32 -0400</pubDate>
-      
-      <guid>https://middleware-conf.github.io/post/middleware2022/</guid>
-      <description>MIDDLEWARE 2022 will be held in Quebec City, Canada.
-General Chairs: Kaiwen Zhang and Abdelouahed Gherbi, ETS Montreal, Canada and Paolo Bellavista, University of Bologna, Italy.
-Program Chairs: Saurabh Bagchi, Purdue University, USA and Marta Patino-Martinez, Polytechnic University of Madrid, Spain.
-We are currently planning for a physical conference in Quebec City, scheduled for November 2022. Due to the current pandemic, our plans may change and require a virtual conference. We will provide updates as they become available through our various channels (Website, Twitter, Facebook, LinkedIn).</description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Nov 2022 13:08:32 -0400</lastBuildDate><atom:link href="https://middleware-conf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIDDLEWARE 2023</title>
       <link>https://middleware-conf.github.io/post/middleware2023/</link>
-      <pubDate>Wed, 09 Mar 2022 13:08:32 -0400</pubDate>
+      <pubDate>Tue, 29 Nov 2022 13:08:32 -0400</pubDate>
       
       <guid>https://middleware-conf.github.io/post/middleware2023/</guid>
       <description>MIDDLEWARE 2023 will be held in Bologna, Italy.
 General Chair: Paolo Bellavista, University of Bologna, Italy.
-Program Chairs: TBD</description>
+Program Chairs: Pramod Bhatotia, TU Munich, Germany and Christine Julien, UT Austin, USA</description>
     </item>
     
     <item>
