@@ -4,60 +4,44 @@
     <title>Posts on ACM/IFIP/USENIX MIDDLEWARE</title>
     <link>https://middleware-conf.github.io/post/</link>
     <description>Recent content in Posts on ACM/IFIP/USENIX MIDDLEWARE</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://middleware-conf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://middleware-conf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIDDLEWARE 2024</title>
       <link>https://middleware-conf.github.io/post/middleware2024/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://middleware-conf.github.io/post/middleware2024/</guid>
-      <description>MIDDLEWARE 2024 will be held in Hong Kong, China
-General Chair: Jian-Nong Cao, Hong Kong Polytechnic University.
-Program Chairs: Zhi Jin, Peking University, China and Valerio Schiavoni, Universite de Neuchatel, Switzerland</description>
+      <description>MIDDLEWARE 2024 will be held in Hong Kong, China&#xA;General Chair: Jian-Nong Cao, Hong Kong Polytechnic University.&#xA;Program Chairs: Zhi Jin, Peking University, China and Valerio Schiavoni, Universite de Neuchatel, Switzerland</description>
     </item>
-    
     <item>
       <title>COVID-19 Policy</title>
       <link>https://middleware-conf.github.io/post/covid/</link>
       <pubDate>Tue, 04 Jul 2023 12:41:24 -0400</pubDate>
-      
       <guid>https://middleware-conf.github.io/post/covid/</guid>
-      <description>The MIDDLEWARE Steering and Organizing Committees have been actively discussing how the situation surrounding COVID-19 has been evolving around the world.
-We deeply sympathize with those who have been affected in various ways by COVID-19. Our primary concern is that members of our community, and their families and friends, remain safe and healthy. We are aware of the challenges people in different regions of the world are facing, and consequently MIDDLEWARE 2020 was a virtual conference.</description>
+      <description>The MIDDLEWARE Steering and Organizing Committees have been actively discussing how the situation surrounding COVID-19 has been evolving around the world.&#xA;We deeply sympathize with those who have been affected in various ways by COVID-19. Our primary concern is that members of our community, and their families and friends, remain safe and healthy. We are aware of the challenges people in different regions of the world are facing, and consequently MIDDLEWARE 2020 was a virtual conference.</description>
     </item>
-    
     <item>
       <title>MIDDLEWARE 2023</title>
       <link>https://middleware-conf.github.io/post/middleware2023/</link>
       <pubDate>Tue, 29 Nov 2022 13:08:32 -0400</pubDate>
-      
       <guid>https://middleware-conf.github.io/post/middleware2023/</guid>
-      <description>MIDDLEWARE 2023 will be held in Bologna, Italy.
-General Chair: Paolo Bellavista, University of Bologna, Italy.
-Program Chairs: Pramod Bhatotia, TU Munich, Germany and Christine Julien, UT Austin, USA</description>
+      <description>MIDDLEWARE 2023 will be held in Bologna, Italy.&#xA;General Chair: Paolo Bellavista, University of Bologna, Italy.&#xA;Program Chairs: Pramod Bhatotia, TU Munich, Germany and Christine Julien, UT Austin, USA</description>
     </item>
-    
     <item>
       <title>Want to Host MIDDLEWARE?</title>
       <link>https://middleware-conf.github.io/post/bids/</link>
       <pubDate>Mon, 01 Nov 2021 12:36:52 -0400</pubDate>
-      
       <guid>https://middleware-conf.github.io/post/bids/</guid>
-      <description>The MIDDLEWARE Steering Committee welcomes proposals from academia and industry researchers who are interested in hosting and organizing future editions of MIDDLEWARE. We make every effort to rotate the venue between North America, Europe and the rest of the world.
-More details on submitting an expression of interest are available here</description>
+      <description>The MIDDLEWARE Steering Committee welcomes proposals from academia and industry researchers who are interested in hosting and organizing future editions of MIDDLEWARE. We make every effort to rotate the venue between North America, Europe and the rest of the world.&#xA;More details on submitting an expression of interest are available here</description>
     </item>
-    
     <item>
       <title>Policy Against Discrimination and Harassment</title>
       <link>https://middleware-conf.github.io/post/harassment/</link>
       <pubDate>Fri, 25 Jun 2021 12:43:48 -0400</pubDate>
-      
       <guid>https://middleware-conf.github.io/post/harassment/</guid>
-      <description>MIDDLEWARE is an ACM event and every edition of MIDDLEWARE strictly abides by the ACM Policy Against Discrimination and Harassment
-Any individual who experiences or witnesses harassment (as described above) at MIDDLEWARE or any ACM activity should follow the ACM Procedures for Reporting Unacceptable Behavior.</description>
+      <description>MIDDLEWARE is an ACM event and every edition of MIDDLEWARE strictly abides by the ACM Policy Against Discrimination and Harassment&#xA;Any individual who experiences or witnesses harassment (as described above) at MIDDLEWARE or any ACM activity should follow the ACM Procedures for Reporting Unacceptable Behavior.</description>
     </item>
-    
   </channel>
 </rss>
