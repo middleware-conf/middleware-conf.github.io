@@ -15,3 +15,29 @@
 @media (prefers-color-scheme: dark) {
 	.content tbody tr:has(> td:first-child > em) { background: #1d2127; color: #b4bac4; }
 }
+
+/* Submenus (layouts/partials/menu.html). On phones they are always shown,
+   indented under their parent; on wider screens they drop down on hover/focus. */
+.menu__sub { margin: 0; padding: 0; list-style: none; }
+.menu__sublink { padding-left: 2rem; font-weight: 400; text-transform: none; }
+.menu__subitem:hover, .menu__subitem--active { background: #003056; }
+
+@media screen and (min-width: 767px) {
+	.menu__item--parent { position: relative; }
+	.menu__item--parent > .menu__link::after { content: " \25BE"; }
+	.menu__sub {
+		display: none;
+		position: absolute;
+		top: 100%;
+		left: 0;
+		z-index: 10;
+		min-width: 15rem;
+		background: #2a2a2a;
+		border-top: 5px solid #003056;
+		box-shadow: 0 4px 10px rgba(0, 0, 0, .25);
+	}
+	.menu__item--parent:hover > .menu__sub,
+	.menu__item--parent:focus-within > .menu__sub { display: block; }
+	.menu__sublink { padding: .625rem .9375rem; white-space: nowrap; }
+	.menu__subitem + .menu__subitem { border-top: 1px solid rgba(255, 255, 255, .1); }
+}

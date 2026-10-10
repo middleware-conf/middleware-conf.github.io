@@ -13,7 +13,21 @@
       <link>https://middleware-conf.github.io/awards/</link>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/awards/</guid>
-      <description>The 2026 awards will be announced at MIDDLEWARE 2026 in Tarragona.&#xA;Since 2022, the Program Committee also recognizes runner-up papers for the Best Paper and Best Student Paper Awards (called Honorable Mentions from 2025). They are listed in italics directly below the winner of the same year.&#xA;Test of Time Award The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems).</description>
+      <description>MIDDLEWARE recognizes outstanding work with three awards:&#xA;Test of Time Award: given since 2009 to a paper published in MIDDLEWARE ten years earlier that has had the most impact since publication. Best Paper Award: selected by the Program Committee of each conference, with runners-up recognized since 2022. Best Student Paper Award: selected by the Program Committee of each conference, with runners-up recognized since 2025. The 2026 awards will be announced at MIDDLEWARE 2026 in Tarragona.</description>
+    </item>
+    <item>
+      <title>Best Paper Award</title>
+      <link>https://middleware-conf.github.io/awards/best-paper/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://middleware-conf.github.io/awards/best-paper/</guid>
+      <description>The shortlisting of candidate papers and selection of the Best Paper Award is made by the Program Committee of the conference.&#xA;Since 2022, the Program Committee also recognizes runner-up papers (called Honorable Mentions from 2025). They are listed in italics directly below the winner of the same year.&#xA;Year Paper Authors 2025 Recipe: Hardware-Accelerated Replication Protocols Dimitra Giantsidi (Microsoft Research Cambridge, UK), Emmanouil Giortamis, Julian Pritzi (TU Munich, Germany), Maurice Bailleu (Huawei Research), Manos Kapritsos (University of Michigan, USA), Pramod Bhatotia (TU Munich, Germany) 2025 Honorable Mention HARP: Energy-Aware and Adaptive Management of Heterogeneous Processors Till Smejkal, Robert Khasanov, Jeronimo Castrillon, Hermann Härtig (TU Dresden, Germany) 2024 Banyan: Fast Rotating Leader BFT Yann Vonlanthen, Jakub Sliwinski, Massimo Albarello, Roger Wattenhofer (ETH Zurich, Switzerland) 2024 Runner-up Chasing Lightspeed Consensus: Fast Wide-Area Byzantine Replication with Mercury Christian Berger (University of Passau, Germany), Lívio Rodrigues (Universidade de Lisboa, Portugal), Hans P.</description>
+    </item>
+    <item>
+      <title>Best Student Paper Award</title>
+      <link>https://middleware-conf.github.io/awards/best-student-paper/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://middleware-conf.github.io/awards/best-student-paper/</guid>
+      <description>The shortlisting of candidate papers and selection of the Best Student Paper Award is made by the Program Committee of the conference.&#xA;Since 2025, the Program Committee also recognizes Honorable Mentions. They are listed in italics directly below the winner of the same year.&#xA;Year Paper Authors 2025 Full Trust Alchemist: Reforging Attestation for Cloud-based Confidential Workloads Anna Galanou, Florian Lubitz (TU Dresden, Germany), Hajeong Jeon (RWTH Aachen, Germany), Christof Fetzer (TU Dresden, Germany), Rüdiger Kapitza (FAU Erlangen-Nürnberg, Germany) 2025 Honorable Mention Stabl: The Sensitivity of Blockchains to Failures Vincent Gramoli (University of Sydney and Redbelly Network, Australia), Rachid Guerraoui (EPFL, Switzerland), Andrei Lebedev (University of Sydney, Australia), Gauthier Voron (EPFL, Switzerland) 2024 L3: Latency-aware Load Balancing in Multi-Cluster Service Mesh Olivier Michaelis, Stefan Schmid (TU Berlin, Germany), Habib Mostafaei (Eindhoven University of Technology, Netherlands) 2021 Sizeless: predicting the optimal size of serverless functions Simon Eismann, Johannes Grohmann (U.</description>
     </item>
     <item>
       <title>Bids for Hosting Middleware</title>
@@ -35,6 +49,13 @@
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/proceedings/</guid>
       <description>Important update on ACM&amp;rsquo;s new open access publishing model for 2026 ACM Conferences! Starting January 1, 2026, ACM will fully transition to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). With over 2,600 institutions already part of ACM Open, the majority of ACM-sponsored conference papers will not require APCs from authors or conferences (currently, around 76%).</description>
+    </item>
+    <item>
+      <title>Test of Time Award</title>
+      <link>https://middleware-conf.github.io/awards/test-of-time/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://middleware-conf.github.io/awards/test-of-time/</guid>
+      <description>The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems). Candidates for the Test of Time Award are shortlisted and evaluated by a committee appointed by the Middleware Steering Committee. The awardees are invited to give a retrospective keynote talk at the conference.</description>
     </item>
     <item>
       <title>Steering Committee</title>
