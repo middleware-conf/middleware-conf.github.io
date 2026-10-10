@@ -1,0 +1,32 @@
+/* Dark mode: follows the visitor's system setting. Overrides the
+   light colors hard-coded in themes/mainroad/assets/css/style.css. */
+:root { color-scheme: light dark; }
+
+@media (prefers-color-scheme: dark) {
+	body { color: #d9dce1; background: #0f1114; }
+	.container--outer { box-shadow: 0 0 10px rgba(0, 0, 0, .6); }
+	.wrapper, .header { background: #181b20; }
+
+	h1, h2, h3, h4, h5, h6,
+	a, pre, .logo__title, .pagination__item { color: #eef0f3; }
+	a:hover,
+	.content a, .content a:hover,
+	.warning a, .warning a:hover,
+	.logo__tagline { color: #7cb7ff; }
+	.logo__tagline { border-top-color: #2c3038; }
+	blockquote { border-left-color: #7cb7ff; }
+
+	figcaption, .meta, .meta a { color: #a2a9b5; }
+	hr { border-top-color: #2c3038; }
+	code { color: #ff8a80; background-color: #22262d; border-color: #2c3038; }
+	mark { color: #000; }
+
+	table, td, th, .list__item, .post__meta, .pager, .authorbox,
+	.widget__item, .toc, .warning { border-color: #2c3038; }
+	.toc { background: #181b20; }
+	.pagination__item, input, textarea, .widget-search__form { background: #22262d; }
+	input, textarea, .widget-search__field { color: #d9dce1; border-color: #2c3038; }
+	.widget-search__field { background: #181b20; }
+
+	.footer { color: #a2a9b5; background: #0b0c0e; border-top-color: #3a3f47; }
+}
