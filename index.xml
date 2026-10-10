@@ -6,35 +6,35 @@
     <description>Recent content in Home on ACM/IFIP/USENIX MIDDLEWARE</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://middleware-conf.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Award Winners</title>
-      <link>https://middleware-conf.github.io/awards/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://middleware-conf.github.io/awards/</guid>
-      <description>Test of Time Award The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems). Candidates for the Test of Time Award are shortlisted and evaluated by a committee appointed by the Middleware Steering Committee. The awardees are invited to give a retrospective keynote talk at the conference.</description>
-    </item>
     <item>
       <title>Bids for Hosting Middleware</title>
       <link>https://middleware-conf.github.io/hosting/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/hosting/</guid>
       <description>The Steering Committee is currently looking for sites to host MIDDLEWARE 2029 and later. The Middleware conference plans at least two years ahead and is accepting expressions of interest (EOI) and proposals to host future conferences at any time. An EOI is put forward informally by email to the Chair of the Steering Committee of the Middleware Conference. The Steering Committee will then be in touch with the applicants to work towards the submission of a conference hosting proposal for a targeted year.</description>
     </item>
     <item>
       <title>History</title>
       <link>https://middleware-conf.github.io/history/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/history/</guid>
       <description>Year Venue Date General Chairs Program Chairs Acc. Rate 2027 Kyoto, Japan Dec 13 - 17 Klara Nahrstedt, Etienne Rivière 2026 Tarragona, Spain Dec 14 - 18 Pedro García López Sara Bouchenak, Abhishek Chandra 2025 Nashville, USA Dec 15 - 19 Aniruddha S. Gokhale Mohammad Sadoghi, Lydia Y. Chen 2024 Hong Kong, China Dec 2 - 6 Jiannong Cao Zhi Jin, Valerio Schiavoni 2023 Bologna, Italy Dec 11 - 15 Paolo Bellavista, Jiannong Cao Christine Julien, Pramod Bhatotia 2022 Quebec City, Canada Nov 7 - 11 Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista Saurabh Bagchi, Marta Patino-Martinez 32.</description>
     </item>
     <item>
       <title>Proceedings</title>
       <link>https://middleware-conf.github.io/proceedings/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/proceedings/</guid>
-      <description>From 2014 onwards, the proceedings of MIDDLEWARE are published by ACM.&#xA;From 1998-2013, the proceedings of MIDDLEWARE were published by Springer &amp;ndash; Lecture Notes in Computer Science (LNCS) and are crosslinked from the ACM Digital Library here (check under alphabet &amp;lsquo;M&amp;rsquo;)&#xA;For your convenience, the proceedings of the main research track of MIDDLEWARE are linked below.&#xA;The ACM page of MIDDLEWARE links proceedings of the Industry Track and several workshops that have been affiliated with MIDDLEWARE.</description>
+      <description>Important update on ACM&amp;rsquo;s new open access publishing model for 2026 ACM Conferences! Starting January 1, 2026, ACM will fully transition to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). With over 2,600 institutions already part of ACM Open, the majority of ACM-sponsored conference papers will not require APCs from authors or conferences (currently, around 76%).</description>
+    </item>
+    <item>
+      <title>Award Winners</title>
+      <link>https://middleware-conf.github.io/awards/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://middleware-conf.github.io/awards/</guid>
+      <description>Test of Time Award The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems). Candidates for the Test of Time Award are shortlisted and evaluated by a committee appointed by the Middleware Steering Committee. The awardees are invited to give a retrospective keynote talk at the conference.</description>
     </item>
     <item>
       <title>Steering Committee</title>

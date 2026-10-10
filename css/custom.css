@@ -1,0 +1,11 @@
+/* Highlighted notices: write them as Markdown blockquotes (lines starting with ">"). */
+.content blockquote {
+	padding: 15px 20px;
+	background: #eef3f8;
+	border-radius: 0 4px 4px 0;
+}
+.content blockquote h4 { margin-bottom: 10px; }
+
+@media (prefers-color-scheme: dark) {
+	.content blockquote { background: #1f2630; }
+}
