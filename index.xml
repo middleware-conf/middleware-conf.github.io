@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://middleware-conf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Award Winners</title>
+      <link>https://middleware-conf.github.io/awards/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://middleware-conf.github.io/awards/</guid>
+      <description>The 2026 awards will be announced at MIDDLEWARE 2026 in Tarragona.&#xA;Since 2022, the Program Committee also recognizes runner-up papers for the Best Paper and Best Student Paper Awards (called Honorable Mentions from 2025). They are listed in italics directly below the winner of the same year.&#xA;Test of Time Award The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems).</description>
+    </item>
+    <item>
       <title>Bids for Hosting Middleware</title>
       <link>https://middleware-conf.github.io/hosting/</link>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
@@ -28,13 +35,6 @@
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/proceedings/</guid>
       <description>Important update on ACM&amp;rsquo;s new open access publishing model for 2026 ACM Conferences! Starting January 1, 2026, ACM will fully transition to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). With over 2,600 institutions already part of ACM Open, the majority of ACM-sponsored conference papers will not require APCs from authors or conferences (currently, around 76%).</description>
-    </item>
-    <item>
-      <title>Award Winners</title>
-      <link>https://middleware-conf.github.io/awards/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://middleware-conf.github.io/awards/</guid>
-      <description>Test of Time Award The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems). Candidates for the Test of Time Award are shortlisted and evaluated by a committee appointed by the Middleware Steering Committee. The awardees are invited to give a retrospective keynote talk at the conference.</description>
     </item>
     <item>
       <title>Steering Committee</title>

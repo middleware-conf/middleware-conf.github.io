@@ -9,3 +9,9 @@
 @media (prefers-color-scheme: dark) {
 	.content blockquote { background: #1f2630; }
 }
+
+/* Award tables: shade runner-up / honorable-mention rows (their year cell is in italics). */
+.content tbody tr:has(> td:first-child > em) { background: #f6f7f9; color: #555; }
+@media (prefers-color-scheme: dark) {
+	.content tbody tr:has(> td:first-child > em) { background: #1d2127; color: #b4bac4; }
+}
