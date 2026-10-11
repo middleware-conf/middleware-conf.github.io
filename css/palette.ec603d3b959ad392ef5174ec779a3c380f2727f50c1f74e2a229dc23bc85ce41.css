@@ -1,0 +1,32 @@
+/* Site colour palette. Every other stylesheet uses these variables, so
+   changing colours means editing only this file. Matches the Middleware 2027
+   site (middleware-conf/2027, assets/css/main.css). */
+:root {
+	color-scheme: light dark;
+	--page: #f4f4f5;        /* outside the content box */
+	--bg: #ffffff;
+	--fg: #1a1a1a;
+	--muted: #5f6672;
+	--rule: #e6e8ec;
+	--accent: #8c1d40;      /* links and accent text */
+	--accent-fill: #8c1d40; /* filled accents: active menu tab, bars */
+	--accent-soft: #f8eef1; /* tinted panels */
+	--bar: #1f2125;         /* menu bar and footer */
+	--bar-fg: #ffffff;
+	--subtle: #f7f7f8;      /* runner-up rows, code */
+}
+@media (prefers-color-scheme: dark) {
+	:root {
+		--page: #0e0f12;
+		--bg: #14161a;
+		--fg: #e4e6ea;
+		--muted: #a2a9b5;
+		--rule: #272b32;
+		--accent: #e48aa6;
+		--accent-fill: #8c1d40;
+		--accent-soft: #2a1a20;
+		--bar: #0b0c0e;
+		--bar-fg: #e4e6ea;
+		--subtle: #1b1e23;
+	}
+}

@@ -1,0 +1,28 @@
+/* Applies the palette (palette.css) to the Mainroad theme, whose own
+   stylesheet hard-codes light colours. Works in light and dark mode. */
+body { color: var(--fg); background: var(--page); }
+.container--outer { box-shadow: 0 0 10px rgba(0, 0, 0, .12); }
+.wrapper, .header { background: var(--bg); }
+
+h1, h2, h3, h4, h5, h6, a, pre, .logo__title, .pagination__item { color: var(--fg); }
+a:hover, .content a, .content a:hover, .warning a, .warning a:hover,
+.logo__tagline, .meta a:hover { color: var(--accent); }
+.logo__tagline { border-top-color: var(--rule); }
+blockquote { border-left-color: var(--accent); }
+
+.menu__list, .menu__btn { background: var(--bar); }
+.menu__link, .menu__link:hover { color: var(--bar-fg); }
+
+figcaption, .meta, .meta a { color: var(--muted); }
+hr { border-top-color: var(--rule); }
+code { background-color: var(--subtle); border-color: var(--rule); }
+@media (prefers-color-scheme: dark) { code { color: #ff8a80; } mark { color: #000; } }
+
+table, td, th, .list__item, .post__meta, .pager, .authorbox,
+.widget__item, .toc, .warning { border-color: var(--rule); }
+.toc { background: var(--bg); }
+.pagination__item, input, textarea, .widget-search__form { background: var(--subtle); }
+input, textarea, .widget-search__field { color: var(--fg); border-color: var(--rule); }
+
+.footer { color: var(--muted); background: var(--bar); border-top-color: var(--accent-fill); }
+.footer a { color: var(--bar-fg); }
