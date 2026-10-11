@@ -6,8 +6,15 @@
     <description>Recent content in Home on ACM/IFIP/USENIX MIDDLEWARE</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://middleware-conf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steering Committee</title>
+      <link>https://middleware-conf.github.io/steering/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://middleware-conf.github.io/steering/</guid>
+      <description>Jan Rellermeyer (Leibniz Universität Hannover) &amp;ndash; Chair Hans-Arno Jacobsen (University of Toronto, Canada) Gordon Blair (Lancaster University, UK) David Eyers (U. Otago, New Zealand) &amp;ndash; ACM representative Luis Veiga (Technical University of Lisbon, Portugal) - IFIP representative K. R. Jayaram (IBM T. J. Watson Research Center, USA) - Information Officer Nalini Venkatasubramanian (University of California, Irvine, USA) Anshul Gandhi (Stony Brook University, USA) Peter Pietzuch (Imperial College London, UK) Liuba Shrira (Brandeis University, USA) Paulo Ferreira (University of Oslo, Norway) Guillaume Pierre (University of Rennes, France) Mohammad Sadoghi (University of California, Davis, USA) Roman Vitenberg(University Oslo, Norway) Robbert van Renesse (Cornell University, USA) Vana Kalogeraki (Athens University of Economics and Business, Greece) Dilma Da Silva (Texas A&amp;amp;M University, USA) Rüdiger Kapitza (Technische Universität Braunschweig, Germany) Saurabh Bagchi (Purdue University, USA) Marta Patiño-Martínez (Technical University of Madrid, Spain) Kaiwen Zhang (ETS, University of Quebec, Canada) Abdelouahed Gherbi (ETS, University of Quebec, Canada) Paolo Bellavista (University of Bologna, Italy) Jiannong Cao (Hong Kong Polytechnic University, Hong Kong) Christine Julien(University of Texas, Austin, USA) Pramod Bhatotia(TU Munich, Germany) Zhi Jin (Peking University, China) Valerio Schiavoni (University of Neuchâtel, Switzerland) Aniruddha Gokhale (Vanderbilt University, USA) Lydia Y.</description>
+    </item>
     <item>
       <title>Award Winners</title>
       <link>https://middleware-conf.github.io/awards/</link>
@@ -56,13 +63,6 @@
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/awards/test-of-time/</guid>
       <description>The Test of Time Award, started in 2009, is given every year to a paper published in MIDDLEWARE 10 years prior, which has had the most impact since publication (in terms of seeding new research directions, influencing other research and/or resulting in widely used software systems). Candidates for the Test of Time Award are shortlisted and evaluated by a committee appointed by the Middleware Steering Committee. The awardees are invited to give a retrospective keynote talk at the conference.</description>
-    </item>
-    <item>
-      <title>Steering Committee</title>
-      <link>https://middleware-conf.github.io/steering/</link>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://middleware-conf.github.io/steering/</guid>
-      <description> Jan Rellermeyer (Leibniz Universität Hannover) &amp;ndash; Chair Hans-Arno Jacobsen (University of Toronto, Canada) Gordon Blair (Lancaster University, UK) David Eyers (U. Otago, New Zealand) &amp;ndash; ACM representative Luis Veiga (Technical University of Lisbon, Portugal) - IFIP representative K. R. Jayaram (IBM T. J. Watson Research Center, USA) - Information Officer Nalini Venkatasubramanian (University of California, Irvine, USA) Anshul Gandhi (Stony Brook University, USA) Peter Pietzuch (Imperial College London, UK) Liuba Shrira (Brandeis University, USA) Paulo Ferreira (University of Oslo, Norway) Guillaume Pierre (University of Rennes, France) Mohammad Sadoghi (University of California, Davis, USA) Roman Vitenberg(University Oslo, Norway) Robbert van Renesse (Cornell University, USA) Vana Kalogeraki (Athens University of Economics and Business, Greece) Dilma Da Silva (Texas A&amp;amp;M University, USA) Rüdiger Kapitza (Technische Universität Braunschweig, Germany) Saurabh Bagchi (Purdue University, USA) Marta Patiño-Martínez (Technical University of Madrid, Spain) Kaiwen Zhang (ETS, University of Quebec, Canada) Abdelouahed Gherbi (ETS, University of Quebec, Canada) Paolo Bellavista (University of Bologna, Italy) Jiannong Cao (Hong Kong Polytechnic University, Hong Kong) Christine Julien(University of Texas, Austin, USA) Pramod Bhatotia(TU Munich, Germany) </description>
     </item>
     <item>
       <title>MIDDLEWARE 2024</title>
