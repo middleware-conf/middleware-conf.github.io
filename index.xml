@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://middleware-conf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>History</title>
+      <link>https://middleware-conf.github.io/history/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://middleware-conf.github.io/history/</guid>
+      <description>Year Venue Date General Chairs Program Chairs Acc. Rate 2027 Kyoto, Japan Dec 13 - 17 Klara Nahrstedt, Etienne Rivière 2026 Tarragona, Spain Dec 14 - 18 Pedro García López Sara Bouchenak, Abhishek Chandra 2025 Nashville, USA Dec 15 - 19 Aniruddha S. Gokhale Mohammad Sadoghi, Lydia Y. Chen 2024 Hong Kong, China Dec 2 - 6 Jiannong Cao Zhi Jin, Valerio Schiavoni 2023 Bologna, Italy Dec 11 - 15 Paolo Bellavista, Jiannong Cao Christine Julien, Pramod Bhatotia 2022 Quebec City, Canada Nov 7 - 11 Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista Saurabh Bagchi, Marta Patino-Martinez 32.</description>
+    </item>
+    <item>
       <title>Steering Committee</title>
       <link>https://middleware-conf.github.io/steering/</link>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
@@ -42,13 +49,6 @@
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://middleware-conf.github.io/hosting/</guid>
       <description>The Steering Committee is currently looking for sites to host MIDDLEWARE 2029 and later. The Middleware conference plans at least two years ahead and is accepting expressions of interest (EOI) and proposals to host future conferences at any time. An EOI is put forward informally by email to the Chair of the Steering Committee of the Middleware Conference. The Steering Committee will then be in touch with the applicants to work towards the submission of a conference hosting proposal for a targeted year.</description>
-    </item>
-    <item>
-      <title>History</title>
-      <link>https://middleware-conf.github.io/history/</link>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://middleware-conf.github.io/history/</guid>
-      <description>Year Venue Date General Chairs Program Chairs Acc. Rate 2027 Kyoto, Japan Dec 13 - 17 Klara Nahrstedt, Etienne Rivière 2026 Tarragona, Spain Dec 14 - 18 Pedro García López Sara Bouchenak, Abhishek Chandra 2025 Nashville, USA Dec 15 - 19 Aniruddha S. Gokhale Mohammad Sadoghi, Lydia Y. Chen 2024 Hong Kong, China Dec 2 - 6 Jiannong Cao Zhi Jin, Valerio Schiavoni 2023 Bologna, Italy Dec 11 - 15 Paolo Bellavista, Jiannong Cao Christine Julien, Pramod Bhatotia 2022 Quebec City, Canada Nov 7 - 11 Kaiwen Zhang, Abdelouahed Gherbi, Paolo Bellavista Saurabh Bagchi, Marta Patino-Martinez 32.</description>
     </item>
     <item>
       <title>Proceedings</title>
